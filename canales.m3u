@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.riberenapucallpa.net/wp-content/uploads/2023/01/cropped-logo-riberena.png"
+group-title="canales de pucallpa",RIBEREÑA
+https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
